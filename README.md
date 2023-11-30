@@ -17,6 +17,3 @@ This training will feature several code-driven examples of transformer-derived a
 5. [Image Captioning with Vision Transformers](notebooks/image_captioning_vision_transformer.ipynb) - [Open in Colab](https://colab.research.google.com/drive/1OQlX_cD4mVo8vB3A4co1JIfl9Vt7rhzN?usp=sharing)
 6. [3rd Party Transformer Models](notebooks/other_transformers.ipynb)
 
-## Instructor
-
-**Sinan Ozdemir** is founder and CTO of LoopGenius, where he uses state-of-the-art AI to help people create and run their businesses. He has lectured in data science at Johns Hopkins University and authored multiple books, videos and numerous online courses on data science, machine learning, and generative AI. He also founded the recently acquired Kylie.ai, an enterprise-grade conversational AI platform with RPA capabilities. Sinan most recently published Quick Guide to Large Language Models, and launched a podcast audio series, AI Unveiled. Ozdemir holds a master’s degree in pure mathematics from Johns Hopkins University.
